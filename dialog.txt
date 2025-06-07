@@ -1,0 +1,68 @@
+[
+  {"text": "Yo, wassup?", "sender": 0, "delay": 5},
+  {"text": "All good friends, You?", "sender": 1, "reply_to": 0, "delay": 7},
+  {"text": "Same, just finished a book", "sender": 0, "reply_to": 1, "delay": 10},
+  {"text": "What book?", "sender": 2, "reply_to": 0, "delay": 12},
+  {"text": "Dune, took a while but solid", "sender": 0, "reply_to": 2, "delay": 90},
+  {"text": "Heard it's deep, worth it?", "sender": 1, "reply_to": 0, "delay": 10},
+  {"text": "Yeah, if you like world-building", "sender": 0, "reply_to": 1, "delay": 15},
+  {"text": "Sci-fi or fantasy?", "sender": 2, "reply_to": 0, "delay": 20},
+  {"text": "More sci-fi, but kinda mixed", "sender": 0, "reply_to": 2, "delay": 80},
+  {"text": "Might check it out", "sender": 1, "reply_to": 0, "delay": 7},
+
+  {"text": "Been into older movies lately", "sender": 2, "delay": 120},
+  {"text": "Like classic classics?", "sender": 0, "reply_to": 2, "delay": 8},
+  {"text": "Yeah, like 70s-80s stuff", "sender": 2, "reply_to": 0, "delay": 12},
+  {"text": "Got a favorite?", "sender": 1, "reply_to": 2, "delay": 90},
+  {"text": "Blade Runner, still holds up", "sender": 2, "reply_to": 1, "delay": 75},
+  {"text": "That one's a masterpiece", "sender": 0, "reply_to": 2, "delay": 7},
+
+  {"text": "Old movies just hit different", "sender": 1, "reply_to": 0, "delay": 10},
+  {"text": "No overuse of CGI, just raw filming", "sender": 2, "reply_to": 1, "delay": 12},
+  {"text": "Yeah, practical effects were crazy good", "sender": 0, "reply_to": 2, "delay": 15},
+  {"text": "Modern movies kinda lost that", "sender": 1, "reply_to": 0, "delay": 10},
+  {"text": "Everything feels too clean now", "sender": 2, "reply_to": 1, "delay": 20},
+
+  {"text": "Speaking of clean, AI-generated stuff is everywhere", "sender": 0, "delay": 130},
+  {"text": "Yeah, art, music, even writing", "sender": 1, "reply_to": 0, "delay": 10},
+  {"text": "Some of it is decent, but feels off", "sender": 2, "reply_to": 1, "delay": 15},
+  {"text": "Lacks that human touch", "sender": 0, "reply_to": 2, "delay": 10},
+  {"text": "It’s improving fast though", "sender": 1, "reply_to": 0, "delay": 100},
+
+  {"text": "Wonder how long before AI movies", "sender": 2, "reply_to": 1, "delay": 90},
+  {"text": "Probably sooner than we think", "sender": 0, "reply_to": 2, "delay": 6},
+  {"text": "Then actors gonna be in trouble", "sender": 1, "reply_to": 0, "delay": 12},
+  {"text": "Same with music producers", "sender": 2, "reply_to": 1, "delay": 20},
+  {"text": "AI beats already sound good", "sender": 0, "reply_to": 2, "delay": 80},
+
+  {"text": "Music industry changes every decade", "sender": 1, "reply_to": 0, "delay": 85},
+  {"text": "True, streaming flipped everything", "sender": 2, "reply_to": 1, "delay": 6},
+  {"text": "Artists barely make money now", "sender": 0, "reply_to": 2, "delay": 12},
+  {"text": "Unless they tour", "sender": 1, "reply_to": 0, "delay": 95},
+  {"text": "Live concerts still irreplaceable", "sender": 2, "reply_to": 1, "delay": 105},
+
+  {"text": "Ever been to one?", "sender": 0, "reply_to": 2, "delay": 75},
+  {"text": "Yeah, went to one last year", "sender": 1, "reply_to": 0, "delay": 10},
+  {"text": "Vibe must’ve been crazy", "sender": 2, "reply_to": 1, "delay": 12},
+  {"text": "Yeah, energy was insane", "sender": 0, "reply_to": 2, "delay": 90},
+
+  {"text": "Better training, better tech", "sender": 2, "reply_to": 0, "delay": 95},
+  {"text": "Wonder how sports will be in 50 years", "sender": 1, "reply_to": 2, "delay": 60},
+  {"text": "Probably way more advanced", "sender": 0, "reply_to": 1, "delay": 120},
+  {"text": "Or fully robotic leagues", "sender": 2, "reply_to": 0, "delay": 110},
+  {"text": "That’d be wild but boring", "sender": 1, "reply_to": 2, "delay": 10},
+  {"text": "Humans bring the real drama", "sender": 0, "reply_to": 1, "delay": 7},
+
+  {"text": "Exactly, competition needs emotion", "sender": 2, "reply_to": 0, "delay": 20},
+  {"text": "Same with gaming, esports got huge", "sender": 1, "reply_to": 2, "delay": 105},
+  {"text": "Some players making serious money", "sender": 0, "reply_to": 1, "delay": 90},
+  {"text": "Training like actual athletes too", "sender": 2, "reply_to": 0, "delay": 100},
+  {"text": "Gotta respect the grind", "sender": 1, "reply_to": 2, "delay": 10},
+  {"text": "Yeah, but the burnout is real", "sender": 0, "reply_to": 1, "delay": 80},
+
+  {"text": "Gotta keep up or fade out", "sender": 1, "reply_to": 2, "delay": 60},
+  {"text": "Everything feels temporary now", "sender": 0, "reply_to": 1, "delay": 75},
+  {"text": "People forget things in days", "sender": 2, "reply_to": 0, "delay": 110},
+  {"text": "Attention span is cooked", "sender": 1, "reply_to": 2, "delay": 85},
+  {"text": "Guess that’s just how it is now", "sender": 0, "reply_to": 1, "delay": 70}
+]
